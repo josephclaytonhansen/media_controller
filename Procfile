@@ -1,1 +1,1 @@
-web: gunicorn helloflask.py
+web: gunicorn helloflask:app
